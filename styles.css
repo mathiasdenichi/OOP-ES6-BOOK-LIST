@@ -1,0 +1,15 @@
+
+.success {
+  background: green;
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+  transition: ease-in-out 1s;
+}
+
+.error{
+  background: red;
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
